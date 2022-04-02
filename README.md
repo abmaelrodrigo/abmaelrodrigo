@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abmael Rodrigo</h1>
-<h3 align="center">A software tester from Brazil passionate about Quality</h3>
+<h3 align="center">A QA Enginner from Brazil passionate about Quality</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abmaelrodrigo" alt="abmaelrodrigo" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abmaelrodrigo](https://github.com/abmaelrodrigo)
 
-- 💬 Ask me about **Software Testing, Zemphyr, Postman, Node.js, JavaScript**
+- 💬 Ask me about **Quality Assurance, Software Testing, Zephyr, Postman, Node.js, JavaScript**
 
 - 📫 How to reach me **abmaelrodrigo@outlook.com**
 
