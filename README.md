@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abmael-rodrigo-5583319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abmael-rodrigo-5583319b/" height="30" width="40" /></a>
 <a href="https://fb.com/abmael rodrigo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abmael rodrigo" height="30" width="40" /></a>
-<a href="https://instagram.com/ab.rodrigo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ab.rodrigo" height="30" width="40" /></a>
+<a href="https://instagram.com/abmaelrodrigo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ab.rodrigo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abmaelrodrigo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abmaelrodrigo" height="30" width="40" /></a>
 </p>
 
