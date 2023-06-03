@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abmaelrodrigo" alt="abmaelrodrigo" /></a> </p>
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abmaelrodrigo](https://github.com/abmaelrodrigo)
 
-- 💬 Ask me about **Quality Assurance, Software Testing, Zephyr, Postman, Node.js, JavaScript**
+- 💬 Ask me about **Quality Assurance, Software Testing, Cypress, Zephyr, Postman, Node.js, JavaScript**
 
 - 📫 How to reach me **abmaelrodrigo@outlook.com**
 
