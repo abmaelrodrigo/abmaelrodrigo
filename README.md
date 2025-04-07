@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abmaelrodrigo](https://github.com/abmaelrodrigo)
 
-- 💬 Ask me about **Quality Assurance, Software Testing, Cypress, Zephyr, Postman, Node.js, JavaScript**
+- 💬 Ask me about **Quality Assurance, Software Testing, Playwright, Cypress, Zephyr, Postman, Node.js, JavaScript**
 
 - 📫 How to reach me **abmaelrodrigo@outlook.com**
 
